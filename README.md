@@ -17,7 +17,7 @@ This script requires the following Python modules to be installed:
 
 The dependencies can be installed using pip:
 
-pip install csv argparse web3 python-dotenv tqdm requests
+pip install -r requirements.txt
 
 ## Usage
 
